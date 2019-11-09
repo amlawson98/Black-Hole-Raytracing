@@ -1,6 +1,8 @@
 # Black-Hole-Raytracing
 Ray-tracer for Light around Schwarzschild Black Hole
+
 Final Project for Brown General Relativity Course (PHYS1100)
+
 Alex Lawson and Brad Guessman
 
 What would it look like if you stuck a black hole in front of an ordinary image? The extreme mass of the black hole would bend the path of light, warping the image, and some light that ventures to close to black hole, would be sucked in, leaving the image with a black area. 
