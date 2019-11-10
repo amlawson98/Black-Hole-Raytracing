@@ -11,3 +11,6 @@ This project traces the path of light around geodesics defined by the Schwarzsch
 
 Some Example results are given in the folder 'Image_Results'.
 ![alt text](https://https://raw.githubusercontent.com/amlawson98/Black-Hole-Raytracing/Image_Results/Adam2.png)
+
+![Alt text](Image_Results/Adam2.png?raw=true "Title")
+
